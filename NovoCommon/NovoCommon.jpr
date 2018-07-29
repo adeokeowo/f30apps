@@ -195,7 +195,7 @@
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
       <value n="j2eeWebAppName" v="f30apps-NovoCommon-webapp"/>
-      <value n="j2eeWebContextRoot" v="f30apps-NovoCommon-context-root"/>
+      <value n="j2eeWebContextRoot" v="f30apps"/>
    </hash>
    <hash n="oracle.jdeveloper.model.PathsConfiguration">
       <hash n="javaContentSet">
